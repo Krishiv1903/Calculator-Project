@@ -17,4 +17,4 @@ a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
 operation = input("Enter operation (+, -, *, /): ")
 
-print("Result:", calculate(a, b, operation))
+print("Calculation Result:", calculate(a, b, operation))
