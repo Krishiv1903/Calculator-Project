@@ -12,6 +12,7 @@ def calculate(a, b, operation):
     else:
         return "Invalid operation"
 
+print("Welcome to the Simple Calculator!")
 
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
