@@ -1,6 +1,8 @@
 # Simple Calculator
 A basic Python calculator that performs addition, subtraction, multiplication and division.
-This project's purpose is to practise git commands.
+
+## Project Purpose
+This project demonstrates Git branching, commits, merging, and conflict resolution using a Python calculator.
 
 ## Features
 - Addition
